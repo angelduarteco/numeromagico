@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+background-color: rgb(6, 8, 80);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.tarjeta {
+background-color: rgb(25, 27, 84);
+border-radius: 15px;
+width: 350px;
+padding: 35px;
+align-items: center;
+justify-content: center;
+text-align: center;
+margin-top:100px;
+}
+
+#titulo{
+color: #ffffff;
+}
+
+#parrafo{
+color: #ffffff;
+
+}
+
+#numero{
+background-color: #8f62d1;
+border: 2px solid #ffffff;
+margin-right: 15px;
+}
+
+#intentos{
+color: #ffffff;
+margin-bottom: 20px;
+}
+
+#mensaje{
+color: #d13030;
+margin-bottom: 20px;
+}
+
+#boton:hover{
+background-color:red;    
+}
